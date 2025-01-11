@@ -1,0 +1,8 @@
+# If you use the multi-world plugin, please fill in your world name here.
+restricted-worlds:
+  - world
+
+# Day limit, you can increase the limit of other ores, which resets every 24 hours.
+limits:
+  DIAMOND_ORE: 10
+  EMERALD_ORE: 5
