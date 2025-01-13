@@ -2,7 +2,7 @@ package me.yourplugin.dailymine;
 
 /**
  * DailyMineLimit
- * Limit Dayly Mining
+ * Limit Daily Mining
  * By Star Dream Studio
  * https://xmc.tw
  */
